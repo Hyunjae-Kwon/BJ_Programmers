@@ -16,6 +16,6 @@ public class ex10 {
 			result[i] = arr[i] - arr2[i];
 			System.out.print(result[i] + " ");
 		}
-		System.out.println(Arrays.toString(result));
+//		System.out.println(Arrays.toString(result));
 	}
 }
